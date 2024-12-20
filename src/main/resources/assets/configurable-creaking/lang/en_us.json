@@ -1,0 +1,28 @@
+{
+  "configurable-creaking.midnightconfig.title":"Configurable Creaking",
+
+  "configurable-creaking.midnightconfig.category.creaking": "Creaking",
+  "configurable-creaking.midnightconfig.category.blossom": "Eyeblossom",
+
+  "configurable-creaking.midnightconfig.creakingStats": "Base Creaking Stats",
+  "configurable-creaking.midnightconfig.creakingSpeed": "Creaking Movement Speed",
+  "configurable-creaking.midnightconfig.creakingDamage": "Creaking Damage",
+  "configurable-creaking.midnightconfig.creakingIgnoreArmour": "Creaking Bypasses Armor",
+  "configurable-creaking.midnightconfig.creakingTargetAttacker": "Creaking Target Attacker",
+
+  "configurable-creaking.midnightconfig.blossomPlayerEffect": "Open Eyeblossom Status Effect",
+  "configurable-creaking.midnightconfig.enableBlossomOpenEffect": "Enable Open Eyeblossom Effect",
+  "configurable-creaking.midnightconfig.enableBlossomOpenEffect.tooltip": "Whether a status effect gets applied to players touching an open Eyeblossom",
+  "configurable-creaking.midnightconfig.blossomOpenEffect": "Open Eyeblossom Effect",
+  "configurable-creaking.midnightconfig.blossomOpenEffectDuration": "Open Eyeblossom Effect Duration",
+  "configurable-creaking.midnightconfig.blossomOpenEffectDuration.tooltip": "Duration in seconds",
+  "configurable-creaking.midnightconfig.blossomOpenEffectAmplifier": "Open Eyeblossom Effect Amplifier",
+
+  "configurable-creaking.midnightconfig.blossomPlayerEffectClosed": "Closed Eyeblossom Status Effect",
+  "configurable-creaking.midnightconfig.enableBlossomClosedEffect": "Enable Closed Eyeblossom Effect",
+  "configurable-creaking.midnightconfig.enableBlossomClosedEffect.tooltip": "Whether a status effect gets applied to players touching an closed Eyeblossom",
+  "configurable-creaking.midnightconfig.blossomClosedEffect": "Closed Eyeblossom Effect",
+  "configurable-creaking.midnightconfig.blossomClosedEffectDuration": "Closed Eyeblossom Effect Duration",
+  "configurable-creaking.midnightconfig.blossomClosedEffectDuration.tooltip": "Duration in seconds",
+  "configurable-creaking.midnightconfig.blossomClosedEffectAmplifier": "Closed Eyeblossom Effect Amplifier"
+}
