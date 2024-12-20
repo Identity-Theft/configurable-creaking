@@ -3,11 +3,8 @@
   "package": "identitytheft.configurablecreaking.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
-    "CreakingHeartBlockEntityMixin",
-    "CreakingHeartBlockMixin",
     "CreakingMixin",
     "EyeblossomBlockMixin",
-    "LivingEntityMixin",
     "MobEntityMixin"
   ],
   "injectors": {
